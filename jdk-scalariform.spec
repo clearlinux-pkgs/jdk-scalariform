@@ -1,6 +1,6 @@
 Name     : jdk-scalariform
 Version  : 0.1.7
-Release  : 1
+Release  : 2
 URL      : http://repo1.maven.org/maven2/org/scalariform/scalariform_2.11/0.1.7/scalariform_2.11-0.1.7.jar
 Source0  : http://repo1.maven.org/maven2/org/scalariform/scalariform_2.11/0.1.7/scalariform_2.11-0.1.7.jar
 Source1  : http://repo1.maven.org/maven2/org/scalariform/scalariform_2.11/0.1.7/scalariform_2.11-0.1.7.pom
